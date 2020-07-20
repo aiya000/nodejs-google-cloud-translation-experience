@@ -2,8 +2,12 @@
   "name": "google-cloud-translation-experience",
   "version": "1.0.0",
   "description": "",
-  "scripts": {
-  },
+  "scripts": {},
   "author": "aiya000",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/text-to-speech": "^3.0.1",
+    "@google-cloud/translate": "^6.0.2",
+    "@google-cloud/vision": "^2.1.1"
+  }
 }
